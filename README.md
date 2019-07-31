@@ -8,3 +8,6 @@ We provide the the link of the data we collected in the paper:
 [capgaze2](https://drive.google.com/drive/folders/1ghe3_7tdx2f3ejiKEnv6w_JJ39-9c9eB?usp=sharing): contains 3000 images, and processed data (we combined all the eye-fixations from different people for each image into a fixation map). This part of data was used for developing saliency prediction model under the image captioning task in the paper.
 
 Also we give the code for extracting the information in the collected data in the demo folder (an example in the demo.ipynb).
+
+# Contact
+<senhe752@gmail.com>
