@@ -1,6 +1,6 @@
 # Human-Attention-in-Image-Captioning-Dataset-and-Analysis-ICCV-2019
 ## Introduction
-This is the github page for our ICCV 2019 paper ([link](https://arxiv.org/pdf/1903.02499.pdf)).
+This is the github page for our ICCV 2019 paper ([link](https://openaccess.thecvf.com/content_ICCV_2019/papers/He_Human_Attention_in_Image_Captioning_Dataset_and_Analysis_ICCV_2019_paper.pdf)).
 We provide the the link of the data collected in the paper:
 ![picture](/fg/data.png)
 [capgaze1](https://drive.google.com/open?id=1qlOCr8TX6dmAxhlCob79X29riyQ_MRlq): contains 1000 images, and raw data (eye-fixations, verbal description as well as the transcribed text description) from 5 native English speakers. This part of data was used for the analysis. For data privacy reason, the voice of the verbal description was converted by a masking process (pitch modulation, the content was preserved).
